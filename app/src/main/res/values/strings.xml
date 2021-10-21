@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionAndIntentUsage</string>
+    <string name="mutlti_permission">Mutlti permission</string>
+</resources>
